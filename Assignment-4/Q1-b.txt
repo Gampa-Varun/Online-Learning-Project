@@ -1,0 +1,58 @@
+Time or sample complexity for 3 number of arms is till trial 0 638
+Error till now is 0
+Time or sample complexity for 3 number of arms is till trial 10 29318
+Error till now is 0
+Time or sample complexity for 3 number of arms is till trial 20 66438
+Error till now is 0
+Time or sample complexity for 3 number of arms is till trial 30 104878
+Error till now is 0
+Time or sample complexity for 3 number of arms is till trial 40 879628
+Error till now is 0
+Time or sample complexity for 3 number of arms is till trial 50 2753958
+Error till now is 0
+Time or sample complexity for 3 number of arms is till trial 60 3293418
+Error till now is 0
+Time or sample complexity for 3 number of arms is till trial 70 3399128
+Error till now is 0
+Time or sample complexity for 3 number of arms is till trial 80 3785158
+Error till now is 0
+Time or sample complexity for 3 number of arms is till trial 90 3856558
+Error till now is 0
+Average Time or sample complexity for 3 number of arms is 50557.1
+Error rate in this case is 0.0
+Time or sample complexity for 10 number of arms is till trial 0 5099891
+Error till now is 0
+Time or sample complexity for 10 number of arms is till trial 10 13857061
+Error till now is 0
+Time or sample complexity for 10 number of arms is till trial 20 14183881
+Error till now is 0
+Time or sample complexity for 10 number of arms is till trial 30 14488251
+Error till now is 0
+Time or sample complexity for 10 number of arms is till trial 40 15128261
+Error till now is 0
+Time or sample complexity for 10 number of arms is till trial 50 15971901
+Error till now is 0
+Time or sample complexity for 10 number of arms is till trial 60 17177761
+Error till now is 0
+Time or sample complexity for 10 number of arms is till trial 70 27155301
+Error till now is 0
+Time or sample complexity for 10 number of arms is till trial 80 30256011
+Error till now is 0
+Time or sample complexity for 10 number of arms is till trial 90 33504171
+Error till now is 0
+Average Time or sample complexity for 10 number of arms is 347604.5
+Error rate in this case is 0.0
+Time or sample complexity for 20 number of arms is till trial 0 34809441
+Error till now is 0
+Time or sample complexity for 20 number of arms is till trial 10 77222351
+Error till now is 0
+Time or sample complexity for 20 number of arms is till trial 20 80555361
+Error till now is 0
+Time or sample complexity for 20 number of arms is till trial 30 81903301
+Error till now is 0
+Time or sample complexity for 20 number of arms is till trial 40 104118901
+Error till now is 0
+Time or sample complexity for 20 number of arms is till trial 50 105511881
+Error till now is 0
+Time or sample complexity for 20 number of arms is till trial 60 378998891
+Error till now is 0

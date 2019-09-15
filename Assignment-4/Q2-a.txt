@@ -1,0 +1,1010 @@
+Time or sample complexity for 10 number of arms is till trial 0 89782.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 1 292192.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 2 607491.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 3 1041047.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 4 1586204.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 5 2278885.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 6 3090329.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 7 4012210.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 8 5050169.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 9 6217901.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 10 7530780.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 11 8969340.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 12 10539758.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 13 12240793.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 14 14058248.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 15 15990291.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 16 18048943.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 17 20217390.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 18 22524780.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 19 24925319.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 20 27497883.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 21 30202057.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 22 33025078.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 23 35978550.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 24 39062574.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 25 42273316.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 26 45613347.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 27 49080730.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 28 52682097.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 29 56421417.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 30 60292860.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 31 64310701.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 32 68456275.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 33 72744183.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 34 77140385.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 35 81656904.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 36 86319873.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 37 91082634.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 38 95991389.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 39 101034821.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 40 106204080.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 41 111504107.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 42 116949161.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 43 122552758.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 44 128310571.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 45 134192268.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 46 140194228.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 47 146305253.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 48 152533197.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 49 158897130.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 50 165389313.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 51 172008572.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 52 178759632.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 53 185644886.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 54 192671982.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 55 199859155.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 56 207174945.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 57 214656149.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 58 222264219.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 59 230000351.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 60 237855608.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 61 245815503.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 62 253919267.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 63 262152038.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 64 270524279.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 65 279025155.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 66 287694695.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 67 296476084.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 68 305400664.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 69 314444942.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 70 323625071.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 71 332945108.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 72 342383838.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 73 351953267.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 74 361651342.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 75 371469195.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 76 381451425.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 77 391556227.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 78 401781481.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 79 412144505.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 80 422627117.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 81 433274873.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 82 444069783.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 83 455004110.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 84 466068311.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 85 477263248.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 86 488588777.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 87 500070627.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 88 511715606.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 89 523517303.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 90 535461219.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 91 547555953.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 92 559793797.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 93 572156059.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 94 584640076.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 95 597260819.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 96 610011706.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 97 622880159.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 98 635908001.0
+Error till now is 0.0
+Time or sample complexity for 10 number of arms is till trial 99 649085182.0
+Error till now is 0.0
+Average Time or sample complexity for 10 number of arms is 6490851.82
+Error rate in this case is 0.0
+Time or sample complexity for 15 number of arms is till trial 0 90737.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 1 295770.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 2 626850.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 3 1079528.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 4 1664863.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 5 2360552.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 6 3165016.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 7 4072125.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 8 5098231.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 9 6247736.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 10 7504571.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 11 8865180.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 12 10376583.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 13 11996950.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 14 13727604.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 15 15548699.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 16 17481725.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 17 19545854.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 18 21736127.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 19 24051579.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 20 26510045.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 21 29112481.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 22 31831966.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 23 34678837.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 24 37642865.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 25 40715845.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 26 43927814.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 27 47264394.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 28 50720277.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 29 54322035.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 30 58040828.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 31 61863770.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 32 65822967.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 33 69958964.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 34 74195107.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 35 78560156.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 36 83051653.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 37 87667818.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 38 92407240.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 39 97276653.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 40 102300306.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 41 107460296.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 42 112779136.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 43 118215881.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 44 123776366.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 45 129446859.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 46 135253063.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 47 141196601.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 48 147247574.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 49 153420321.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 50 159733154.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 51 166180868.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 52 172776582.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 53 179507117.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 54 186387830.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 55 193378163.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 56 200479610.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 57 207731543.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 58 215120794.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 59 222641516.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 60 230298993.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 61 238091580.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 62 246015623.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 63 254076044.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 64 262252812.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 65 270566169.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 66 279020258.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 67 287640725.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 68 296406304.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 69 305294155.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 70 314301559.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 71 323441708.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 72 332757028.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 73 342187225.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 74 351753904.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 75 361463959.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 76 371315198.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 77 381301643.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 78 391398222.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 79 401640315.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 80 412022716.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 81 422524555.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 82 433161934.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 83 443930736.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 84 454864563.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 85 465940615.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 86 477161389.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 87 488506246.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 88 499950813.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 89 511556492.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 90 523296913.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 91 535158755.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 92 547195572.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 93 559377756.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 94 571684041.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 95 584117970.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 96 596692808.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 97 609393919.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 98 622222626.0
+Error till now is 0.0
+Time or sample complexity for 15 number of arms is till trial 99 635204408.0
+Error till now is 0.0
+Average Time or sample complexity for 15 number of arms is 6352044.08
+Error rate in this case is 0.0
+Time or sample complexity for 20 number of arms is till trial 0 102199.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 1 336551.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 2 673996.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 3 1124554.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 4 1697870.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 5 2394313.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 6 3193067.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 7 4088210.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 8 5112218.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 9 6256430.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 10 7531025.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 11 8947079.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 12 10472810.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 13 12093515.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 14 13831836.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 15 15680488.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 16 17650717.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 17 19739003.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 18 21924945.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 19 24228847.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 20 26648329.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 21 29186737.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 22 31840057.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 23 34623569.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 24 37555740.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 25 40650066.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 26 43871181.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 27 47226940.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 28 50700380.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 29 54296755.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 30 58019882.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 31 61869729.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 32 65845756.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 33 69941807.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 34 74165060.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 35 78491417.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 36 82951617.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 37 87518437.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 38 92251680.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 39 97113394.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 40 102127873.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 41 107253635.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 42 112523205.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 43 117940777.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 44 123484857.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 45 129168264.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 46 134983536.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 47 140897592.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 48 146959250.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 49 153137876.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 50 159436694.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 51 165866914.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 52 172437745.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 53 179127237.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 54 185955933.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 55 192917760.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 56 200007156.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 57 207224639.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 58 214571114.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 59 222035355.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 60 229628501.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 61 237361147.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 62 245243627.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 63 253274081.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 64 261445109.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 65 269739469.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 66 278172043.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 67 286703749.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 68 295367402.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 69 304159050.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 70 313094572.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 71 322169332.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 72 331354779.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 73 340667230.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 74 350107692.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 75 359674115.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 76 369361411.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 77 379208646.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 78 389188513.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 79 399294931.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 80 409517802.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 81 419882993.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 82 430386087.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 83 441053537.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 84 451877039.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 85 462837270.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 86 473975032.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 87 485245037.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 88 496652597.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 89 508206381.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 90 519877287.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 91 531692848.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 92 543646444.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 93 555753923.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 94 567995593.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 95 580393601.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 96 592934131.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 97 605616617.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 98 618428079.0
+Error till now is 0.0
+Time or sample complexity for 20 number of arms is till trial 99 631389061.0
+Error till now is 0.0
+Average Time or sample complexity for 20 number of arms is 6313890.61
+Error rate in this case is 0.0
+Time or sample complexity for 25 number of arms is till trial 0 113128.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 1 349751.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 2 674881.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 3 1093512.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 4 1625389.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 5 2284955.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 6 3086579.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 7 3982062.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 8 4988682.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 9 6101793.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 10 7329758.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 11 8669883.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 12 10143158.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 13 11750920.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 14 13470633.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 15 15300336.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 16 17235065.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 17 19294800.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 18 21473832.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 19 23763910.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 20 26178682.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 21 28702631.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 22 31345901.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 23 34120971.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 24 37000944.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 25 40001215.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 26 43134603.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 27 46399549.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 28 49795709.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 29 53279105.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 30 56874714.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 31 60600918.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 32 64423481.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 33 68378653.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 34 72483715.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 35 76706787.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 36 81064323.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 37 85549539.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 38 90149686.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 39 94869775.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 40 99719324.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 41 104684242.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 42 109766844.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 43 114981055.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 44 120305066.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 45 125745980.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 46 131318256.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 47 136999635.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 48 142789872.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 49 148717025.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 50 154761547.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 51 160936855.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 52 167224579.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 53 173642843.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 54 180165000.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 55 186797936.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 56 193553768.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 57 200426369.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 58 207453246.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 59 214580381.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 60 221842381.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 61 229220445.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 62 236725185.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 63 244347723.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 64 252118046.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 65 260018441.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 66 268046785.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 67 276196037.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 68 284451977.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 69 292867460.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 70 301414000.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 71 310081319.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 72 318859047.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 73 327778116.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 74 336837448.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 75 346044021.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 76 355370575.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 77 364808799.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 78 374383288.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 79 384121502.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 80 394005508.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 81 404024831.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 82 414170219.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 83 424454014.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 84 434865846.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 85 445424851.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 86 456121105.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 87 466959556.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 88 477942762.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 89 489047299.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 90 500303751.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 91 511678183.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 92 523197975.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 93 534838491.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 94 546628446.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 95 558529470.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 96 570565286.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 97 582728206.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 98 595057221.0
+Error till now is 0.0
+Time or sample complexity for 25 number of arms is till trial 99 607526620.0
+Error till now is 0.0
+Average Time or sample complexity for 25 number of arms is 6075266.2
+Error rate in this case is 0.0
+Time or sample complexity for 30 number of arms is till trial 0 116151.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 1 343835.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 2 674698.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 3 1097407.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 4 1647940.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 5 2323282.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 6 3105946.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 7 3983502.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 8 4969411.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 9 6068075.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 10 7285157.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 11 8596051.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 12 10006478.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 13 11521867.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 14 13150192.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 15 14923611.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 16 16821259.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 17 18825611.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 18 20955751.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 19 23203739.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 20 25575197.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 21 28063410.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 22 30665453.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 23 33416302.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 24 36296678.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 25 39311376.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 26 42432743.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 27 45665830.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 28 49010368.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 29 52488358.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 30 56077161.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 31 59790784.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 32 63645219.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 33 67628377.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 34 71732936.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 35 75950067.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 36 80301453.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 37 84773875.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 38 89376846.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 39 94102894.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 40 98960209.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 41 103959204.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 42 109087910.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 43 114321244.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 44 119686632.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 45 125191530.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 46 130818807.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 47 136573322.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 48 142444037.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 49 148408908.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 50 154506854.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 51 160749373.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 52 167124506.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 53 173638505.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 54 180250073.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 55 186989066.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 56 193843575.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 57 200831271.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 58 207972059.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 59 215233399.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 60 222622623.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 61 230135123.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 62 237787400.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 63 245571152.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 64 253457170.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 65 261473310.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 66 269602860.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 67 277871254.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 68 286264844.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 69 294785502.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 70 303448858.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 71 312246879.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 72 321169527.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 73 330226270.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 74 339425045.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 75 348743983.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 76 358191036.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 77 367752013.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 78 377440784.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 79 387232105.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 80 397176333.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 81 407233461.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 82 417406793.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 83 427720963.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 84 438154295.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 85 448700572.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 86 459358094.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 87 470168334.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 88 481111352.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 89 492176936.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 90 503384575.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 91 514721257.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 92 526183346.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 93 537775022.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 94 549488256.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 95 561353525.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 96 573354395.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 97 585478530.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 98 597723828.0
+Error till now is 0.0
+Time or sample complexity for 30 number of arms is till trial 99 610095841.0
+Error till now is 0.0
+Average Time or sample complexity for 30 number of arms is 6100958.41
+Error rate in this case is 0.0
